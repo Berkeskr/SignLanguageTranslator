@@ -15,7 +15,7 @@ The main purpose of project is translating sign-language to letters. In accordan
 
 <h2>Installation And Execution</h2>
 First of all you need to download python at least 3.8.8, you can download from <a href="https://www.python.org/downloads/release/python-388/" traget="_blank">here</a>.<br/>
-Then you can use the <a href="https://github.com/ogunbrnc/SignLanguageTranslator/blob/main/requirements.txt" target="_blank">requirements.txt</a> file to download necessary python libaries.</br>
+Then you can use the <a href="https://github.com/Berkeskr/SignLanguageTranslator/blob/main/requirements.txt" target="_blank">requirements.txt</a> file to download necessary python libaries.</br>
 <h4>pip install -r requirements.txt</h4>
 Then you will be have necessary python libaries, so you can run the program with that following command.
 <h4>python HomePage.py</h4>
